@@ -1,0 +1,2 @@
+S=S'+'T|F|S'*'F|T|A
+Z=Z'+'T|F|S'*'Z|B|X

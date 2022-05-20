@@ -1,0 +1,6 @@
+Z=S'a'|'a'
+S=S'b'|'b'
+S=S'b'|'b'B
+B=B'a'|A'e'|DG'+'
+A='e'
+FG='e'|'b'
